@@ -1,6 +1,5 @@
 /* This script will create a looping page effect by scrolling back to the top when
-   the bottom is reached and initialize wow.js to reset page animations.
-   this effect works most smoothly when the top matches the bottom of your page. */
+   the bottom is reached and initialize wow.js to reset page animations.*/
 
 $('document').ready(function() {
     $(document).scroll(function(){
